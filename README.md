@@ -54,5 +54,8 @@ I would create as many edge cases as possible to be automatically checked each t
 
 **Edge cases:**
 1. Switching between Q&A and the application process mid-process.
-2. Handling "trolling" or jailbreaking - a simple "unsubscribe" method might have solved this issue (similarly, this was handled in the Olivia chatbot). ![Example Image](https://i.imgur.com/oODjatf.jpeg)
+2. Handling "trolling" or jailbreaking - a simple "unsubscribe" method might have solved this issue (similarly, this was handled in the Olivia chatbot - image attached below!). 
 3. In the application process, allowing users to go backward to "update" information.
+
+
+![Example Image](https://i.imgur.com/oODjatf.jpeg)
