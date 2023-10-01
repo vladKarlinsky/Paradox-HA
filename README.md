@@ -3,8 +3,9 @@
 ## How Can I Run the Assignment?
 
 1. Enter your OpenAI key in the `.env` file.
-2. Execute the `main.py` file.
-3. Profit.
+2. Install dependencies: `pip install -r requirements.txt` (This make take 1-2 mins, due to LangChain).
+3. Execute the `main.py` file: `python main.py`
+4. Profit.
 
 ## Documentation
 
